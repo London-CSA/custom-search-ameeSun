@@ -1,5 +1,8 @@
 body {
-    background-color: #ffffff;
+    background-color: #E9E6E2;
+    background-image: url("https://cdn.vox-cdn.com/uploads/chorus_image/image/67688903/1177451891.jpg.0.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #212529;
     font-size: 2rem;
     font-weight: 400;
@@ -19,7 +22,7 @@ body {
 
 
 button, input[type="submit"] {
-    background-color: #5aabf1;
+    background-color: #0074B7;
     border: 1px solid transparent;
     border-radius: 0.25rem;
     font-size: 0.95rem;
@@ -55,17 +58,17 @@ table {
 
 table th 
 {
-		background-color: #E8F1FF;
+		background-color: #003B73;
 		padding: 0.75rem;
     vertical-align: middle;
 }
 
 table td{
-	background-color: #BFD4F6;
+	background-color: #60A3D9;
 }
 
 td.footer{
-	background-color:#eeeeee;
+	background-color:#BFD7ED;
 	font-size: .75rem;
 	padding: 0.75rem;
 	font-family:Roboto,arial,sans-serif;
